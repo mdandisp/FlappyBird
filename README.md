@@ -1,2 +1,2 @@
 # FlappyBird
-Flappy Bird Game in C Language
+Flappy Bird Game in Java Language
